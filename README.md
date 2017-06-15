@@ -13,6 +13,6 @@ U+F0118 󰄘(⿹气奧)
 [TTF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-guansoo.ttf)  
 [WOFF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-guansoo.woff)
 
-#License
+## License
 
 [SIL Open Font License 1.1](http://scripts.sil.org/OFL)
