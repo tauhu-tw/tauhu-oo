@@ -4,7 +4,17 @@
 
 提 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) 內底的部件鬥出來的字型。
 
+## tshiuthau-oo-taigi
+version 20170709
+
+![](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.png)   
+
+[TTF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.ttf)  
+[WOFF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.woff)
+
 ## tshiuthau-oo-guansoo
+version 20170615
+
 ![](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-guansoo.png)   
 
 U+F0117 󰄗(⿰石田)  
