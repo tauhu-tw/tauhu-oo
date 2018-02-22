@@ -10,6 +10,7 @@ version 20180222
 ![](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.png)  
 
      U+EBD3/U+F5E7/U+FF5E7 //󿗧 ⿸疒哥
+     U+F2EA  ⿰車藏
      U+207A9 𠞩 ⿰率刂
      U+207AD 𠞭 ⿰婁刂
      U+20895 𠢕 ⿱敖力
@@ -56,7 +57,6 @@ version 20180222
      U+2B7C2 𫟂 ⿰糹寒
      U+2C9B0 𬦰 ⿰⻊百
 
-     U+F0117 󰄗(⿰石田)  
 [TTF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.ttf)
 [WOFF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.woff)
 
