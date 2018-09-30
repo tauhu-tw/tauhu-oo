@@ -2,9 +2,7 @@
 
 ![](https://github.com/glll4678/tauhu-oo/raw/master/TauhuOo-Regular.png)
 
-## 說明
-
-[Source Han Sans](//github.com/adobe-fonts/source-han-sans) 增補字型
+烏體字型增補（修改自 [Source Han Sans](//github.com/adobe-fonts/source-han-sans)）
 
 ## 發佈日期
 
