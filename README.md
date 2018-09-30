@@ -1,6 +1,6 @@
 # 豆腐烏 v18.09
 
-![](//github.com/glll4678/tauhu-oo/raw/master/TauhuOo-Regular.png)
+![](https://github.com/glll4678/tauhu-oo/raw/master/TauhuOo-Regular.png)
 
 ## 說明
 
