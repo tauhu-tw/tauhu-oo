@@ -1,65 +1,28 @@
-# tshiuthau
-> 食果子，拜樹頭。  
-> Tsia̍h kué-tsí, pài tshiū-thâu.
+# 豆腐烏 v18.09
 
-提 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) 內底的部件鬥出來的字型。
 
-## tshiuthau-oo-taigi
-version 20180222
+## 說明
 
-![](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.png)  
+[Source Han Sans](//github.com/adobe-fonts/source-han-sans) 增補字型
 
-     U+EBD3/U+F5E7/U+FF5E7 //󿗧 ⿸疒哥
-     U+F2EA  ⿰車藏
-     U+207A9 𠞩 ⿰率刂
-     U+207AD 𠞭 ⿰婁刂
-     U+20895 𠢕 ⿱敖力
-     U+20BD7 𠯗 ⿰口帀
-     U+21CDE 𡳞 ⿸尸粦
-     U+22AB1 𢪱 ⿰扌勿
-     U+22BFE 𢯾 ⿰扌冒
-     U+22CB8 𢲸 ⿰扌鹵
-     U+22F0C 𢼌 ⿰包攴
-     U+23073 𣁳 ⿰舌斗
-     U+23B88 𣮈 ⿱屈毛
-     U+24C8D 𤲍 ⿰甲夾
-     U+24D83 𤶃 ⿸疒兆
-     U+24E85 𤺅 ⿸疒𠭥
-     U+24EAA 𤺪 ⿸疒善
-     U+25349 𥍉 ⿰目聶
-     U+25435 𥐵 ⿰石匹
-     U+25C14 𥰔 ⿱𥫗品
-     U+25D0A 𥴊 ⿱𥫗敢
-     U+2624E 𦉎 ⿰缶崔
-     U+26293 𦊓 ⿱罒令
-     U+26706 𦜆 ⿰⺼函
-     U+267EA 𦟪 ⿰⺼連
-     U+2725F 𧉟 ⿰虫台
-     U+27304 𧌄 ⿰虫奄
-     U+27B99 𧮙 ⿱𣫞言
-     U+27FEC 𧿬 ⿰⻊屯
-     U+27FF3 𧿳 ⿰⻊弗
-     U+280BF 𨂿 ⿰⻊歪
-     U+2947E 𩑾 ⿰氐頁
-     U+296A8 𩚨 ⿰飠丘
-     U+296E9 𩛩 ⿰飠夾
-     U+29D71 𩵱 ⿰魚午
-     U+29E19 𩸙 ⿰魚隶
-     U+29E36 𩸶 ⿰魚岩
-     U+2A04E 𪁎 ⿰肖鳥
-     U+2A41E 𪐞 ⿰黑乇
-     U+2A736 𪜶 ⿰亻因
-     U+2B74F 𫝏 ⿰冫彥
-     U+2B75B 𫝛 ⿱相同
-     U+2B77A 𫝺 ⿰扌甩
-     U+2B77B 𫝻 ⿰扌回
-     U+2B7BC 𫞼 ⿰立在
-     U+2B7C2 𫟂 ⿰糹寒
-     U+2C9B0 𬦰 ⿰⻊百
 
-[TTF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.ttf)
-[WOFF](https://github.com/glll4678/tshiuthau/raw/master/tshiuthau-oo-taigi.woff)
+## 發佈日期
 
-## License
+2018-09-30
+
+## 下載
+
+[OTF](//github.com/glll4678/tshiuthau/raw/master/TauhuOo-Regular.otf)  
+[WOFF](//github.com/glll4678/tshiuthau/raw/master/TauhuOo-Regular.woff2)  
+[WOFF2](//github.com/glll4678/tshiuthau/raw/master/TauhuOo-Regular.woff)  
+[EOT](//github.com/glll4678/tshiuthau/raw/master/TauhuOo-Regular.otf)  
+
+
+𠕇𡢃𣛮𣻸𤆬𤉙𥑮𨂾𨑨𠞩𠞭𠢕𠯗𡳞𢪱𢯾𢲸𢼌𣁳𣮈𤲍𤶃𤺅𤺪𥌚𥍉𥐵𥰔𥴊𦉎𦊓𦜆𦟪𧉟𧌄𧮙𧿬𧿳𨂿𩑾𩚨𩛩𩵱𩸙𩸶𪁎𪐞𪜶𫝏𫝛𫝺𫝻𫞼𫟂㔂㘛㤉㧌㧎㧒㧣㧻㨂㨑㨨㨪㨻㴘㴙㷮㽎㾀䀐䆀䈄䖙䖳䘥䘼䠡䢢䫌䲅个伨僫凃刣剾勥哹唿啉噍噼坔堃奒媠廍抅抐挵捒捾揬揻搙搝搩摖撆撨攑敱杮梘橂檫沢漖灇烌煏猫疱痃癀癧砄砛硓秥竈粧粩糍絚繏羓肨胮胿膁膎膭臁蕳螕蟮蠘襀襇贌跔蹽躼軁迌頕魩鮊鮘鮻鯮鰮鰺鱲鵤黗𬦰󸾯󿗧
+
+## 版本說明
+支援「[本土語文外字表](//tauhu.tw/gua-ji-pio/)」台語漢字
+
+## 授權條款
 
 [SIL Open Font License 1.1](http://scripts.sil.org/OFL)
