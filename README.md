@@ -15,7 +15,7 @@
 [EOT](//github.com/glll4678/tshiuthau/raw/master/TauhuOo-Regular.otf)  
 
 ## 版本說明
-支援 Basic Latin (U+0021~U+007E)、[本土語言外字表](//tauhu.tw/gua-ji-pio/)
+支援 Basic Latin (U+0020~U+007E)、[本土語言外字表](//tauhu.tw/gua-ji-pio/)
 
 ## 授權條款
 
