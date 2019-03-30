@@ -3,8 +3,6 @@
 支援本土語言漢字、羅馬字的烏體字型，修改自 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。  
 若需要其他語言文字，會使佮 [Google Noto Fonts](https://www.google.com/get/noto/) 做伙使用。
 
-**[下載](https://github.com/tauhu-tw/tauhu-oo/raw/master/TauhuOo-Regular.otf)**
-
 ## 發佈日期
 
 - 2019-03-30
